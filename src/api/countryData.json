@@ -1,0 +1,145 @@
+[
+    {
+      "id": 1,
+      "countryname": "Argentina",
+      "capital": "Buenos Aires",
+      "population": 45195777,
+      "interesting_fact": "Argentina is home to the world’s southernmost city, Ushuaia, which is often referred to as ‘the end of the world’."
+    },
+    {
+      "id": 2,
+      "countryname": "Australia",
+      "capital": "Canberra",
+      "population": 25499884,
+      "interesting_fact": "Australia is the only country that is also a continent."
+    },
+    {
+      "id": 3,
+      "countryname": "Brazil",
+      "capital": "Brasília",
+      "population": 211049527,
+      "interesting_fact": "Brazil is home to the Amazon Rainforest, which produces 20% of the world’s oxygen."
+    },
+    {
+      "id": 4,
+      "countryname": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "interesting_fact": "Canada has the longest coastline of any country in the world, stretching over 202,080 kilometers."
+    },
+    {
+      "id": 5,
+      "countryname": "China",
+      "capital": "Beijing",
+      "population": 1393409038,
+      "interesting_fact": "China is the most populous country in the world and has more than 2000 years of continuous history."
+    },
+    {
+      "id": 6,
+      "countryname": "France",
+      "capital": "Paris",
+      "population": 67081000,
+      "interesting_fact": "France is known for its rich history and culture, and it is home to the Eiffel Tower, one of the most famous landmarks in the world."
+    },
+    {
+      "id": 7,
+      "countryname": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "interesting_fact": "Germany is home to the world’s first automobile, invented by Karl Benz in 1885."
+    },
+    {
+      "id": 8,
+      "countryname": "India",
+      "capital": "New Delhi",
+      "population": 1366417754,
+      "interesting_fact": "India is the world’s largest democracy, and it is also home to the Taj Mahal, one of the Seven Wonders of the World."
+    },
+    {
+      "id": 9,
+      "countryname": "Italy",
+      "capital": "Rome",
+      "population": 60264600,
+      "interesting_fact": "Italy is famous for its art, cuisine, and history, and the city of Rome is home to the Vatican, the smallest independent country in the world."
+    },
+    {
+      "id": 10,
+      "countryname": "Japan",
+      "capital": "Tokyo",
+      "population": 126851745,
+      "interesting_fact": "Japan has over 6,800 islands and is home to Mount Fuji, one of the most iconic volcanoes in the world."
+    },
+    {
+        "id": 11,
+        "countryname": "Mexico",
+        "capital": "Mexico City",
+        "population": 128933000,
+        "interesting_fact": "Mexico is known for its rich culture, and it is the birthplace of chocolate, chilies, and corn."
+      },
+      {
+        "id": 12,
+        "countryname": "Russia",
+        "capital": "Moscow",
+        "population": 145912025,
+        "interesting_fact": "Russia is the largest country in the world by land area, spanning over 17 million square kilometers."
+      },
+      {
+        "id": 13,
+        "countryname": "South Africa",
+        "capital": "Pretoria",
+        "population": 59308690,
+        "interesting_fact": "South Africa is the only country in the world to have hosted the FIFA World Cup, the Rugby World Cup, and the Cricket World Cup."
+      },
+      {
+        "id": 14,
+        "countryname": "Spain",
+        "capital": "Madrid",
+        "population": 46719142,
+        "interesting_fact": "Spain is known for its siestas and flamenco music and dance, as well as its historic architecture like the Alhambra."
+      },
+      {
+        "id": 15,
+        "countryname": "Sweden",
+        "capital": "Stockholm",
+        "population": 10099265,
+        "interesting_fact": "Sweden is known for its beautiful natural landscapes, and it has over 100,000 lakes."
+      },
+      {
+        "id": 16,
+        "countryname": "United Kingdom",
+        "capital": "London",
+        "population": 67886011,
+        "interesting_fact": "The UK is famous for the monarchy, and London is one of the world’s leading financial centers."
+      },
+      {
+        "id": 17,
+        "countryname": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331002651,
+        "interesting_fact": "The United States is the third-largest country by land area and is known for its diversity in culture, landscapes, and population."
+      },
+      {
+        "id": 18,
+        "countryname": "Vietnam",
+        "capital": "Hanoi",
+        "population": 97338579,
+        "interesting_fact": "Vietnam is famous for its cuisine, especially pho and spring rolls, and it has a rich history dating back thousands of years."
+      },
+      {
+        "id": 19,
+        "countryname": "Egypt",
+        "capital": "Cairo",
+        "population": 91250000,
+        "interesting_fact": "Egypt is home to the ancient pyramids, including the Great Pyramid of Giza, one of the Seven Wonders of the Ancient World."
+      },
+      {
+        "id": 20,
+        "countryname": "Saudi Arabia",
+        "capital": "Riyadh",
+        "population": 34813867,
+        "interesting_fact": "Saudi Arabia is home to Mecca, the holiest city in Islam, and it has the world’s largest oil reserves."
+      }
+   
+  ]
+  
+
