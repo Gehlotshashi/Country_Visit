@@ -14,3 +14,4 @@ export const getCountryData=()=>{
 export const getCountryIndData=(name)=>{
     return api.get(`/name/${name}?fullText=true&fields=name,population,region,capital,flags`);
 }
+

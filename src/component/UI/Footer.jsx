@@ -61,7 +61,7 @@ export const Footer =()=>{
                 </li>
                 <li>
                   <NavLink
-                    to="https://www.instagram.com/divine_shashi37/"
+                    to="https://github.com/Gehlotshashi/Demo"
                     target="_blank"
                   >
                     Source Code
